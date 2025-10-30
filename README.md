@@ -1,6 +1,6 @@
 # Furniture & Office Supplies — Sales Analysis
 THIS IS A NEW TEST LINE
-this is line two
+THIS IS A line two
 
 ## Overview
 
